@@ -1,3 +1,2 @@
 # Hello_World
-My first repository
-JJAJAJJAJJAJAJAJAJ
+First Repository that Introduces People to github
